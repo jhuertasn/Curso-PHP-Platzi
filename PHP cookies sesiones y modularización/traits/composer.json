@@ -1,0 +1,17 @@
+{
+    "name": "jordan/traits",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jhuertasn",
+            "email": "81602342+jhuertasn@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
