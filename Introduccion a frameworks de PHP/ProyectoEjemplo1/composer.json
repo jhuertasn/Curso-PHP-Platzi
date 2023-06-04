@@ -1,0 +1,19 @@
+{
+    "name": "jordan/proyecto-ejemplo1",
+    "description": "Proyecto basic",
+    "authors": [
+        {
+            "name": "jhuertasn",
+            "email": "81602342+jhuertasn@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    }
+}
